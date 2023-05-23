@@ -1,0 +1,8 @@
+/home/kevin-m/IntellijProjects/microservices-new/product-service/src/main/java/com/example/productservice/model/Product.java
+/home/kevin-m/IntellijProjects/microservices-new/product-service/src/main/java/com/example/productservice/request/ProductRequest.java
+/home/kevin-m/IntellijProjects/microservices-new/product-service/src/main/java/com/example/productservice/ProductServiceApplication.java
+/home/kevin-m/IntellijProjects/microservices-new/product-service/src/main/java/com/example/productservice/service/ProductService.java
+/home/kevin-m/IntellijProjects/microservices-new/product-service/src/main/java/com/example/productservice/response/ProductResponse.java
+/home/kevin-m/IntellijProjects/microservices-new/product-service/src/main/java/com/example/productservice/config/AppConfig.java
+/home/kevin-m/IntellijProjects/microservices-new/product-service/src/main/java/com/example/productservice/controller/ProductController.java
+/home/kevin-m/IntellijProjects/microservices-new/product-service/src/main/java/com/example/productservice/repository/ProductRepo.java

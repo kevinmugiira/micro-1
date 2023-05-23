@@ -1,0 +1,5 @@
+/home/kevin-m/IntellijProjects/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/InventoryServiceApplication.java
+/home/kevin-m/IntellijProjects/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/model/Inventory.java
+/home/kevin-m/IntellijProjects/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/controller/InventoryController.java
+/home/kevin-m/IntellijProjects/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/repository/InventoryRepository.java
+/home/kevin-m/IntellijProjects/microservices-new/inventory-service/src/main/java/com/example/inventoryservice/service/InventoryService.java
